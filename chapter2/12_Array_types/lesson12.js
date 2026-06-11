@@ -1,0 +1,1 @@
+let mayArr = ["long", 34, true]
